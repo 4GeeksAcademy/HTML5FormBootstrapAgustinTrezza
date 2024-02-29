@@ -1,0 +1,29 @@
+.container-custom {
+    width: 90%;
+    margin: auto;
+    margin-top: .6rem;
+    margin-bottom: 2rem;
+    border: 1px solid #b1b1b1;
+    border-radius: 5px;
+    /* padding: 1rem; */
+    /* padding: .8rem; */
+}
+.title-container {
+    width: 100%;
+    padding: .8rem .8rem!important;
+    background-color: #e1e1e1;
+    margin:0px;
+}
+.bg-payment-custom {
+    background-color: #6c757d;
+    border-radius: 5px;
+    padding: 10px;
+}
+.icono-payment {
+    /* filter: invert(100%); */
+    color: white;
+    font-size: 19px;
+}
+.custom-text-area {
+    width: 100%!important;
+}
